@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 164" role="img" aria-label="Experience: Angardia, AI and Full-Stack developer intern, September 2026 to now. Framatome, log-monitoring tooling intern, April to July 2025. Le Donjon de Paris, electronics and web intern, July to November 2023.">
+  <defs>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#bc8cff" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#bc8cff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect x="0.5" y="0.5" width="759" height="163" rx="12"/></clipPath>
+  </defs>
+  <style>
+    .ring { transform-box: fill-box; transform-origin: center; animation: pulse 1.8s ease-out infinite; }
+    @keyframes pulse { from { transform: scale(1); opacity: 0.7; } to { transform: scale(2.6); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .ring { animation: none; opacity: 0; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="760" height="164" fill="#0d1117"/>
+    <ellipse cx="690" cy="164" rx="320" ry="150" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="759" height="163" rx="12" fill="none" stroke="#30363d"/>
+  <line x1="40" y1="42" x2="40" y2="122" stroke="#30363d" stroke-width="2"/>
+  <circle class="ring" cx="40" cy="42" r="6" fill="#3fb950"/>
+  <circle cx="40" cy="42" r="6" fill="#3fb950"/>
+  <text x="68" y="47" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="14" fill="#d29922">Sep 2026 – now</text>
+  <text x="214" y="47" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Angardia</text>
+  <text x="400" y="47" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#c9d1d9">AI &amp; Full-Stack developer intern</text>
+  <circle cx="40" cy="82" r="5.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+  <text x="68" y="87" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="14" fill="#d29922">Apr – Jul 2025</text>
+  <text x="214" y="87" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Framatome</text>
+  <text x="400" y="87" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#c9d1d9">Log-monitoring tooling intern</text>
+  <circle cx="40" cy="122" r="5.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+  <text x="68" y="127" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="14" fill="#d29922">Jul – Nov 2023</text>
+  <text x="214" y="127" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Le Donjon de Paris</text>
+  <text x="400" y="127" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#c9d1d9">Electronics &amp; web intern</text>
+</svg>

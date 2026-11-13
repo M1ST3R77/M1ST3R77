@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Robin Biard. DevOps, Infrastructure, Cybersecurity, and a bit of everything on the side (AI, full-stack). 5th-year student at Epitech Paris, co-founder of Seeklon.">
+  <img src="./assets/header.svg" width="100%" alt="Robin Biard. DevOps, Infrastructure, Cybersecurity. Also full-stack and AI development. 5th-year student at Epitech Paris, co-founder of Seeklon.">
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
 - 🌏 Spent 2025–26 on exchange at **Inha University** (Incheon, South Korea)
 - 💼 Looking for a 5–6 month end-of-studies internship starting **March 2027**, ideally in DevOps, infra or security, but open to exploring other fields
 
-### 🛠️ Tech stack
+<img src="./assets/h-stack.svg" width="100%" height="30" alt="Tech stack">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,githubactions,jenkins,linux,git,bash,python,ts,cpp,c,react,tailwind,postgres,graphql&perline=8" alt="Docker, Kubernetes, Ansible, GitHub Actions, Jenkins, Linux, Git, Bash, Python, TypeScript, C++, C, React, Tailwind CSS, PostgreSQL, GraphQL">
 </p>
 
-### 🏆 Cybersecurity
+<img src="./assets/h-security.svg" width="100%" height="30" alt="Cybersecurity">
 
 <p align="center">
   <img src="./assets/cyber-rank.svg" width="250" alt="Number 1 in cybersecurity at Epitech Paris in 2nd and 3rd year (10th, then 3rd nationally)">
@@ -27,8 +27,17 @@
   <img src="./assets/cyber-ec2.svg" width="250" alt="EC2 2025 cybersecurity competition in Lille. Regular CTF player">
 </p>
 
-### 🧑‍💻 Experience
+<img src="./assets/h-experience.svg" width="100%" height="30" alt="Experience">
 
-- **Angardia** · AI & Full-Stack developer intern · *Sep 2026 – now*
-- **Framatome** · Log-monitoring tooling intern · *Apr – Jul 2025*
-- **Le Donjon de Paris** · Electronics & web intern · *Jul – Nov 2023*
+<p align="center">
+  <img src="./assets/experience.svg" width="100%" alt="Angardia: AI and Full-Stack developer intern (Sep 2026 to now). Framatome: log-monitoring tooling intern (Apr to Jul 2025). Le Donjon de Paris: electronics and web intern (Jul to Nov 2023).">
+</p>
+
+<img src="./assets/h-activity.svg" width="100%" height="30" alt="Contributions">
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M1ST3R77/M1ST3R77/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/M1ST3R77/M1ST3R77/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation eating my contribution graph">
+  </picture>
+</p>

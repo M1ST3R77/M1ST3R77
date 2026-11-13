@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" role="img" aria-labelledby="title desc">
   <title id="title">Robin Biard</title>
-  <desc id="desc">Terminal window. DevOps, Infrastructure, Cybersecurity, and a bit of everything on the side: AI, full-stack. 5th-year student at Epitech Paris, co-founder of Seeklon.</desc>
+  <desc id="desc">Terminal window. DevOps, Infrastructure, Cybersecurity, Also full-stack and AI development. 5th-year student at Epitech Paris, co-founder of Seeklon.</desc>
 
   <defs>
     <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
@@ -29,7 +29,8 @@
     .cmd    { fill: #e6edf3; font-size: 16px; }
     .name   { fill: url(#name); font-size: 30px; font-weight: 700; }
     .focus  { fill: #e6edf3; font-size: 18px; font-weight: 700; }
-    .note   { fill: #8b949e; font-size: 14px; font-style: italic; }
+    .key    { fill: #8b949e; font-size: 14px; }
+    .also   { fill: #c9d1d9; font-size: 16px; }
     .out    { fill: #c9d1d9; font-size: 15px; }
     .hl     { fill: #58a6ff; font-weight: 700; }
     .dot    { fill: #484f58; }
@@ -81,8 +82,10 @@
   <text class="prompt s2" x="28" y="162">$</text>
   <text class="cmd t2" x="48" y="162">cat focus.txt</text>
   <g class="o2">
-    <text class="focus" x="28" y="192">DevOps <tspan class="dot">·</tspan> Infrastructure <tspan class="dot">·</tspan> Cybersecurity</text>
-    <text class="note" x="28" y="215"># and a bit of everything on the side: AI, full-stack</text>
+    <text class="key" x="28" y="191">core</text>
+    <text class="focus" x="78" y="192">DevOps <tspan class="dot">·</tspan> Infrastructure <tspan class="dot">·</tspan> Cybersecurity</text>
+    <text class="key" x="28" y="216">also</text>
+    <text class="also" x="78" y="216">Full-stack &amp; AI development</text>
   </g>
 
   <!-- $ cat status.txt -->
