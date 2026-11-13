@@ -3,7 +3,6 @@
 **DevOps · Infrastructure · Cybersecurity**, with a bit of everything on the side (AI, full-stack).
 5th-year student at **Epitech Paris** and co-founder of **[Seeklon](https://github.com/Seeklon)**, where I'm in charge of the production infrastructure.
 
-- 🚀 **Now:** building Seeklon's production infrastructure, and AI & full-stack developer intern at **Angardia**
 - 🔐 **Into:** DevOps, infrastructure as code, Kubernetes, cybersecurity (CTFs, pentesting)
 - 🎓 **2025–26:** exchange year at **Inha University** (Incheon, South Korea)
 - 💼 **Looking for:** a 5–6 month end-of-studies internship starting **March 2027**, ideally in DevOps, infra or security, but open to exploring other fields
